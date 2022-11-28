@@ -178,7 +178,7 @@ func help() {
 	Check API Key: 		haktrails ping
 	Show the banner:	haktrails banner
 
-	Full details at: https://github.com/hakluke/haktrails
+	Full details at: https://github.com/trhacknon/haktrails
 	`)
 
 	//color stop
@@ -194,8 +194,8 @@ func banner() {
 	|   | .'| '_|  _|  _| .'| | |_ -|
 	|_|_|__,|_,_|_| |_| |__,|_|_|___|
 									 
-	    Made with <3 by hakluke
-	  Sponsored by SecurityTrails
+	   Made with <3 by trhacknon
+	    Sponsored by Anonymous
 	         hakluke.com
                                                           
 	`)
